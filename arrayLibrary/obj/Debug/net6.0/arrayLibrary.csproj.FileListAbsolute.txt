@@ -1,0 +1,15 @@
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\bin\Debug\net6.0\arrayLibrary.exe
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\bin\Debug\net6.0\arrayLibrary.deps.json
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\bin\Debug\net6.0\arrayLibrary.runtimeconfig.json
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\bin\Debug\net6.0\arrayLibrary.dll
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\bin\Debug\net6.0\arrayLibrary.pdb
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\obj\Debug\net6.0\arrayLibrary.csproj.AssemblyReference.cache
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\obj\Debug\net6.0\arrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\obj\Debug\net6.0\arrayLibrary.AssemblyInfoInputs.cache
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\obj\Debug\net6.0\arrayLibrary.AssemblyInfo.cs
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\obj\Debug\net6.0\arrayLibrary.csproj.CoreCompileInputs.cache
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\obj\Debug\net6.0\arrayLibrary.dll
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\obj\Debug\net6.0\refint\arrayLibrary.dll
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\obj\Debug\net6.0\arrayLibrary.pdb
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\obj\Debug\net6.0\arrayLibrary.genruntimeconfig.cache
+F:\GB\C#\C#_Example_lekc2\Example\arrayLibrary\obj\Debug\net6.0\ref\arrayLibrary.dll

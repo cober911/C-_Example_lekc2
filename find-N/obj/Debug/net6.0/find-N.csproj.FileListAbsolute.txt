@@ -1,0 +1,15 @@
+F:\GB\C#\C#_Example_lekc2\Example\find-N\bin\Debug\net6.0\find-N.exe
+F:\GB\C#\C#_Example_lekc2\Example\find-N\bin\Debug\net6.0\find-N.deps.json
+F:\GB\C#\C#_Example_lekc2\Example\find-N\bin\Debug\net6.0\find-N.runtimeconfig.json
+F:\GB\C#\C#_Example_lekc2\Example\find-N\bin\Debug\net6.0\find-N.dll
+F:\GB\C#\C#_Example_lekc2\Example\find-N\bin\Debug\net6.0\find-N.pdb
+F:\GB\C#\C#_Example_lekc2\Example\find-N\obj\Debug\net6.0\find-N.csproj.AssemblyReference.cache
+F:\GB\C#\C#_Example_lekc2\Example\find-N\obj\Debug\net6.0\find-N.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\C#\C#_Example_lekc2\Example\find-N\obj\Debug\net6.0\find-N.AssemblyInfoInputs.cache
+F:\GB\C#\C#_Example_lekc2\Example\find-N\obj\Debug\net6.0\find-N.AssemblyInfo.cs
+F:\GB\C#\C#_Example_lekc2\Example\find-N\obj\Debug\net6.0\find-N.csproj.CoreCompileInputs.cache
+F:\GB\C#\C#_Example_lekc2\Example\find-N\obj\Debug\net6.0\find-N.dll
+F:\GB\C#\C#_Example_lekc2\Example\find-N\obj\Debug\net6.0\refint\find-N.dll
+F:\GB\C#\C#_Example_lekc2\Example\find-N\obj\Debug\net6.0\find-N.pdb
+F:\GB\C#\C#_Example_lekc2\Example\find-N\obj\Debug\net6.0\find-N.genruntimeconfig.cache
+F:\GB\C#\C#_Example_lekc2\Example\find-N\obj\Debug\net6.0\ref\find-N.dll
